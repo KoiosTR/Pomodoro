@@ -1,0 +1,70 @@
+.daire {
+    -fx-background-color: #E6BCB9;
+    -fx-background-radius: 300;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.3), 10, 0, 0, 0);
+}
+
+.daire2 {
+    -fx-background-color: #F40076;
+    -fx-background-radius: 300;
+}
+
+.menu {
+    -fx-background-color: white;
+    -fx-background-radius: 20;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 10, 0, 0, 0);
+}
+
+.menu-btn {
+    -fx-background-radius: 100;
+    -fx-background-color: white;
+    -fx-cursor: hand;
+}
+
+.menu-btn:hover {
+    -fx-background-color: #f9f9f9;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.3), 10, 0, 0, 0);
+}
+
+
+.player-menu {
+    -fx-background-color: #757475;
+    -fx-background-radius: 10;
+
+}
+
+.player-menu-btn {
+    -fx-background-color: #FE8932;
+    -fx-cursor: hand;
+    -fx-background-radius: 200;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 10, 0, 0, 0);
+}
+
+.player-menu-btn:hover {
+    -fx-background-color: #CD1A30;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.3), 10, 0, 0, 0);
+}
+
+.color-menu {
+    -fx-background-color: #757475;
+    -fx-background-radius: 10;
+}
+
+.color-menu-colors {
+    -fx-cursor: hand;
+    -fx-background-color: none;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.3), 10, 0, 0, 0);
+
+}
+
+
+.background {
+    -fx-background-color: #f5f5f5;
+}
+
+.text-field {
+    -fx-background-color: #62e6bf;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.3), 10, 0, 0, 0);
+    -fx-border-style: none;
+}
